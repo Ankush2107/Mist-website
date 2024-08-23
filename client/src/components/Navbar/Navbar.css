@@ -1,0 +1,20 @@
+.container {
+    background-color: white;
+}
+
+.toolbar {
+    padding: 0 11vw;
+}
+
+.pageClass {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    width: 100px;
+}
